@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NoteboardWPFUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4db9d2891cd7c7429cfece6c42f77b52d476d29c")]
 [assembly: System.Reflection.AssemblyProductAttribute("NoteboardWPFUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NoteboardWPFUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
